@@ -30,9 +30,11 @@ cd <YOUR_PROJECT_NAME>
 
 # Step 3: Install dependencies
 npm install
+npm i **
 
 # Step 4: Start the dev server 🚀
 npm run dev
+satrt production **
 
 🔹 Edit directly in GitHub
 
